@@ -1,0 +1,18 @@
+Windows
+npm install stylus -g
+
+Mac/Linux
+sudo npm install stylus -g
+
+Compilar archivo con stylus
+Primero ve a la carpeta de el archivo usando cd.
+stylus nombre-de-el-archivo.styl
+
+Compilar escuchar cambios
+stylus nombre-de-el-archivo.styl -w
+
+Comprimir archivo
+stylus nombre-de-el-archivo.styl -c
+
+
+
