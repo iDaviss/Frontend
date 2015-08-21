@@ -14,5 +14,8 @@ stylus nombre-de-el-archivo.styl -w
 Comprimir archivo
 stylus nombre-de-el-archivo.styl -c
 
+exportar archivo stylus a otra capeta
+stylus -w -c -o ruta archivo.styl
 
-
+exportar archivo jade a otra carpeta
+jade -o ../ -w -P index.jade
