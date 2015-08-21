@@ -19,3 +19,7 @@ stylus -w -c -o ruta archivo.styl
 
 exportar archivo jade a otra carpeta
 jade -o ../ -w -P index.jade
+
+Instalar nib para el web-kit
+npm install nib -g
+stylus -u nib -w -c -o 
